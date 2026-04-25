@@ -2,7 +2,7 @@
 
 Agenda profesional con encriptación de datos automática y entorno Docker.
 
-## 🚀 Instalación rápida
+##  Instalación rápida
 
 1. **Clonar el repo:** `git clone https://github.com/tu-usuario/agenda-safekeep.git`
 2. **Copiar el entorno:** `cp .env.example .env`
