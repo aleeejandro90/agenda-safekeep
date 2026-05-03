@@ -12,7 +12,7 @@
         <p class="lead mb-5">Tu agenda personal gestionada con Laravel y Docker.</p>
         
         <a href="/agenda" class="btn btn-primary btn-lg px-5 py-3 shadow">
-            Entrar a mi Agenda
+            Bienvenido a mi Agenda
         </a>
     </div>
 
